@@ -1,0 +1,38 @@
+body {
+ background-image: url("419573.jpg");
+ background-position: center center;
+ background-size: cover;
+ height: 100%;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+
+}
+
+
+h1 {
+	margin-top: 100px;
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: center ;
+	cursor: pointer;
+	font-size: 2em;
+	font-family: 'Work Sans', sans-serif;
+	font-family: 'Noto Serif', serif;
+	/*transition: 1s ease-in-out;*/
+}
+
+
+span {
+	color: red;
+}
+
+.btn-danger {
+	position: relative;
+	top: 50px;
+
+}
+
+.btn-danger: hover {
+	border-width: 3px;
+}
+
