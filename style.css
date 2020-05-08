@@ -9,7 +9,7 @@ body {
 }
 
 
-h1 {
+.myclass {
 	margin-top: 100px;
 	margin-left: 50px;
 	margin-right: 50px;
@@ -29,10 +29,5 @@ span {
 .btn-danger {
 	position: relative;
 	top: 50px;
-
-}
-
-.btn-danger: hover {
-	border-width: 3px;
 }
 
